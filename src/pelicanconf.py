@@ -26,7 +26,7 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = False
 
 DISPLAY_PAGES_ON_MENU = True
 
@@ -53,7 +53,8 @@ THEME = "themes/materializecss"
 
 HIDDEN_PAGES = ['Particle and Astroparticle Physics Autumn Programme'] # The title of the index and/or other things
 
-DATE = strftime("on %A, %d %B %Y %H:%M (%z)", localtime())
+# Pinned to the last build of the live site so that rebuilds do not rewrite the footer date
+DATE = "on Wednesday, 28 September 2016 14:43 (+0200)"
 
 IGNORE_FILES = ['.#*','*.xcf']
 
@@ -66,17 +67,16 @@ FOOTER_CONNECT = collections.OrderedDict([
     ('Organizing Committee','astroparticles@ai-sf.it'),
     ('AISF EC','esecutivo@ai-sf.it'),
     ('IAPS EC','ec@iaps.info'),
-    ('Technical support','postmaster@ai-sf.it'),
 ])
 
 FOOTER_CONTACT = collections.OrderedDict([
     # ('Facebook Event Page','https://www.facebook.com/events/895616630487424/'),
-    ('AISF Website','http://ai-sf.it'),
-    ('IAPS Website','http://www.iaps.info'),
+    ('AISF Website','https://ai-sf.it'),
+    ('IAPS Website','https://www.iaps.info'),
 ])
 
-MENUITEMS= [('AISF','http://ai-sf.it')]
-OGURL = "http://papap.ai-sf.it/"
+MENUITEMS= [('AISF','https://ai-sf.it')]
+OGURL = "https://papap.ai-sf.it/"
 
 NICKNAME="papap" # Prefix of the Name Page
 

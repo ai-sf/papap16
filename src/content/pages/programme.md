@@ -320,7 +320,7 @@ spherical tokamak (Lilla Vanó)</td>
       </table>
     </div>
       </div>
-      <p>Last update: 22/09/16. The program may be subject to change.</p>
+      <p>Last update: 01/10/16. The program may be subject to change.</p>
     </div>
   </div>
 </div>   
@@ -335,7 +335,7 @@ spherical tokamak (Lilla Vanó)</td>
   <a href="#!" class="collection-item black-text indigo lighten-5">Insurance;</a>
   <a href="#!" class="collection-item black-text indigo lighten-5">Meals other than those officially offered in the Programme. When useful, the Organising Committee
 will always suggest places to eat.</a>
-  <a href="http://www.ai-sf.it/joomla/it/membri" class="collection-item black-text">Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in this module and make a single payment including both the quotes.<span class="badge indigo white-text">module</span></a>
+  <a href="https://ai-sf.it" class="collection-item black-text">Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in this module and make a single payment including both the quotes.<span class="badge indigo white-text">module</span></a>
   <a href="#!" class="collection-item black-text">Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time.</a>
 </div>
 
