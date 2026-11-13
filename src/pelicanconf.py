@@ -76,7 +76,7 @@ FOOTER_CONTACT = collections.OrderedDict([
 ])
 
 MENUITEMS= [('AISF','https://ai-sf.it')]
-OGURL = "https://papap.ai-sf.it/"
+OGURL = "https://ai-sf.it/papap16/"
 
 NICKNAME="papap" # Prefix of the Name Page
 
